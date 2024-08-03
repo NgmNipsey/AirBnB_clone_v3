@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Luka Korok Kuro - [Github](https://github.com/NgmNipsey) / [Twitter](https://twitter.com/NgmNipsey) / [LinkedIn](https://linkedin.com/NgmNipsey)
+Luka Korok Kuro - [Github](https://github.com/NgmNipsey) / [Twitter](https://twitter.com/NgmNipsey) / [LinkedIn](https://linkedin.com/in/ngmnipsey)
 
 ## License
 Public Domain. No copy write protection. 
